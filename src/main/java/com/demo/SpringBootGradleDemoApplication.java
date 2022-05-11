@@ -12,6 +12,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import static springfox.documentation.builders.PathSelectors.regex;
 @SpringBootApplication
 @EnableSwagger2
+//master branch 
 public class SpringBootGradleDemoApplication {
 
 	public static void main(String[] args) {
