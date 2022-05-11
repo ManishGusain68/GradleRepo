@@ -15,8 +15,6 @@ import static springfox.documentation.builders.PathSelectors.regex;
 
 @EnableSwagger2
 
-//enabled swagger here
-
 public class SpringBootGradleDemoApplication {
 
 	public static void main(String[] args) {
