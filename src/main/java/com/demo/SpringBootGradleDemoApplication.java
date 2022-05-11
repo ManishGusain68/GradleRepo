@@ -19,8 +19,7 @@ public class SpringBootGradleDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGradleDemoApplication.class, args);
-		System.out.println("hello world");
-		System.out.println("hello to universe");
+		
 	}
 	// it is a gradle prject to demo and learn
 
