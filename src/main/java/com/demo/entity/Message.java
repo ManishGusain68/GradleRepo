@@ -1,7 +1,7 @@
 package com.demo.entity;
 
 import java.util.Map;
-
+//this is the class to add the message
 public class Message {
 
 	int id;
