@@ -14,14 +14,14 @@ import static springfox.documentation.builders.PathSelectors.regex;
 @SpringBootApplication
 
 @EnableSwagger2
-//dev2 updated in remote
+
 public class SpringBootGradleDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGradleDemoApplication.class, args);
-		System.out.println("work done by neha");
+		
 		
 	}
-	// it is a gradle prject to demo and learn
+	
 
 }
